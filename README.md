@@ -1,4 +1,4 @@
-# **Introduction Python for Data Engineering**
+# **Introduction to Python for Data Engineering**
 
 This is my repository based on _idBIgData Workshop: Python for Data Engineering_ event.
 Thanks a lot to Mr. [zamzambadruzaman](https://github.com/zamzambadruzaman) for the great hands-on.
@@ -13,7 +13,7 @@ If you have `git` installed in your machine:
 
 Clone the repo without git:
 
--   Download the repo: [Download zip](https://github.com/ammfat/introduction-to-python-for-data-engineering/archive/refs/heads/master.zip)
+-   Download the repo: [Download zip](https://github.com/ammfat/introduction-to-python-for-data-engineering/archive/refs/heads/main.zip)
 -   Extract the zip
 
 ## **Setup Python**
