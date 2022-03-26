@@ -1,6 +1,8 @@
 # **Introduction to Python for Data Engineering**
 
-This is my repository based on _idBIgData Workshop: Python for Data Engineering_ event.
+Simple Data Pipeline for Covid-19 cases update.
+
+The code based on _idBIgData Workshop: Python for Data Engineering_ event.
 Thanks a lot to Mr. [zamzambadruzaman](https://github.com/zamzambadruzaman) for the great hands-on.
 
 You can also access the speaker's repository [here](https://github.com/zamzambadruzaman/python-for-data-engineering/).
